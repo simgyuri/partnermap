@@ -236,6 +236,17 @@ thead {
 
 .ad {
     color: #dc5841;
+    border-bottom: none;
+}
+
+.ad:hover {
+    color: #da442d;
+    border-bottom: none;
+}
+
+.bt a:hover {
+    color: #5841dc;
+    border-bottom: none;
 }
 
 /*page*/
@@ -496,26 +507,46 @@ ul {
 }
 
 .table-wrapper {
-    width: 100px; height:200px;
     overflow: auto;
-    border:2px solid red;
-  }
-
-.partner-box, .table-wrapper {
     background-color: rgb(242, 239, 239);
     margin-top: 9px;
     margin-bottom: -100px;
     margin-left: 755px;
-    margin-right: 45px;
+    margin-right: 50x;
     padding: 30px;
-    padding-top: 2px;
-    border: 0px solid;
-    width: 465px;
+    width: 461px;
     height: 315px;
+
+}
+
+.tw {
+    margin: auto;
+    margin-top: 2px;
+    padding-top: 2px;
+}
+
+.like-wrapper {
+    background-color: rgb(242, 239, 239);
+    margin-top: 108px;
+    margin-left: 230px;
+    width: 985px;
+    height: 300px;
+    margin-bottom: 30px;
+    overflow: auto;
+    padding-left: 30px;
+    padding-top: 3px;
+}
+
+.like-table {
+    margin: auto;
 }
 
 .table-wrapper .tbmenu {
     border-bottom: 2px solid #5841dc;
+}
+
+.like-wrapper .tbmenu {
+    border-bottom: 2px solid #5841dc;   
 }
 
 
@@ -531,16 +562,6 @@ ul {
     margin-left: 230px;
     margin-right: 45px;
     padding: 15px;
-}
-
-.like-ct {
-    background-color: rgb(242, 239, 239);
-    margin-top: 110px;
-    margin-left: 230px;
-    margin-right: 800px;
-    margin-bottom: 30px;
-    padding-bottom: 200px;
-    border-radius: 25px;
 }
 
 .startimg {
