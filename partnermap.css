@@ -475,7 +475,7 @@ ul {
     margin-top: 50px;
     margin-bottom: -100px;
     margin-left: 230px;
-    margin-right: 535px;
+    width: 498px;
     padding: 15px;
     border: 1px solid #dfdfdf;
     box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.1);
@@ -499,11 +499,10 @@ ul {
     border-radius: 2px;
     border: 1px solid #dfdfdf;
     box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.1);
-
     margin-top: -488px;
     margin-left: 755px;
-    margin-right: 45px;
     padding: 15px;
+    width: 498px;
 }
 
 .table-wrapper {
@@ -514,7 +513,7 @@ ul {
     margin-left: 755px;
     margin-right: 50x;
     padding: 30px;
-    width: 461px;
+    width: 495px;
     height: 315px;
 
 }
@@ -529,7 +528,7 @@ ul {
     background-color: rgb(242, 239, 239);
     margin-top: 108px;
     margin-left: 230px;
-    width: 985px;
+    width: 1010px;
     height: 300px;
     margin-bottom: 30px;
     overflow: auto;
@@ -550,7 +549,6 @@ ul {
 }
 
 
-
 .like-title {
     color: rgb(58, 31, 100);
     background-color: rgb(247, 247, 250);
@@ -560,8 +558,8 @@ ul {
     margin-top: 110px;
     margin-bottom: -100px;
     margin-left: 230px;
-    margin-right: 45px;
     padding: 15px;
+    width: 1017px;
 }
 
 .startimg {
